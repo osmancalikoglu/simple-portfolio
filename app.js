@@ -34,7 +34,7 @@ function CardContent() {
 function CardImage() {
     return(
         <div className="ui image">
-            <img src="/images/Osman.jpeg" />
+            <img src="images/Osman.jpeg" />
         </div>
     );
 }
